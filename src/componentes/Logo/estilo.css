@@ -1,0 +1,15 @@
+.logo {
+    display: flex;
+    font-size: 30px;
+    color: #002F52;
+    cursor: pointer;
+
+}
+
+.logo-img {
+    height: 60px;
+    margin-top: 15px;
+    margin-right: 10px;
+    margin-left: 20px;
+    cursor: pointer;
+}
